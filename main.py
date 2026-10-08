@@ -31,7 +31,7 @@ def main():
         elif choice == "6":
             manager.performance_report()
         elif choice == "7":
-            print("Bye!")
+            print("Thank you!")
             break
         else:
             print("Wrong choice. Try again.")
